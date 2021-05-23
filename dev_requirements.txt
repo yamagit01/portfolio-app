@@ -1,0 +1,14 @@
+Django
+django-environ
+django-widget-tweaks
+django-cleanup
+dj-database-url
+Pillow
+black
+flake8
+flake8-import-order
+isort
+mypy
+tox
+pytest
+pytest-django

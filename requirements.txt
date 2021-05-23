@@ -1,0 +1,10 @@
+Django
+django-environ
+django-widget-tweaks
+django-cleanup
+Pillow
+gunicorn
+--install-option="--no-deps" django-heroku
+dj-database-url
+psycopg2-binary
+whitenoise
