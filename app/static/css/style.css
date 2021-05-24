@@ -44,6 +44,11 @@ main {
 }
 
 .top img {
+    object-fit: cover;
+    height: 500px;
+}
+
+.top-detail img {
     object-fit: contain;
     height: 500px;
 }
